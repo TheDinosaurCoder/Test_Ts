@@ -18,5 +18,5 @@ interface Person {
 }
 
 for (let i = 0; i < 1000; i++){
-    console.log(i, "Hello World!")
+    console.log(i, "Hello World!") 
 }
