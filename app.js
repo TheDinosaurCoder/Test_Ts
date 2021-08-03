@@ -20,3 +20,6 @@ for (var i = 0; i < list.length; i++) {
     console.log(string1);
     string1 = '';
 }
+if (1 + 2 == 3) {
+    console.log('Yes!');
+}
